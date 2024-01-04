@@ -1,0 +1,15 @@
+version: "3.1"
+
+
+nlu:
+- intent: cumprimento
+  examples: |
+    - Olá
+    - Oi
+    - E aí
+
+- intent: despedida
+  examples: |
+    - Adeus
+    - Até mais
+    - Tchau

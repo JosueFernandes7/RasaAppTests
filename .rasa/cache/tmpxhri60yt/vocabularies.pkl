@@ -1,0 +1,1 @@
+{"text": {"ol\u00e1": 6, "oi": 5, "e": 3, "a\u00ed": 2, "adeus": 0, "at\u00e9": 1, "mais": 4, "tchau": 7}, "intent": {"cumprimento": 0, "despedida": 1}, "response": null, "action_name": null, "action_text": null, "intent_response_key": null}
